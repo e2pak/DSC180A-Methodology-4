@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Erik Pak
-e2pak@ucsd.edu
+Erik Pak and Jared Dishman
